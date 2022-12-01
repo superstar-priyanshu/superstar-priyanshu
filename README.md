@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @superstar-priyanshu
+- 👋 Hi, I’m Kumar Priyanshu Raj
 - 👀 I’m interested in an internship
 - 🌱 I’m currently learning a lot of stuffs in programming world
 - 💞️ I’m looking to do an internship in a software campany
